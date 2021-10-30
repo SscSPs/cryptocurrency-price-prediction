@@ -37,6 +37,7 @@ Check out the corresponding medium blog post [https://towardsdatascience.com/cry
 
 3. https://github.com/khuangaf/CryptocurrencyPrediction
 
+updated to 2021
 
 ## License
 
